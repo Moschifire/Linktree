@@ -37,3 +37,9 @@ button {
 #zuri_internship, #hng, #ingressive {
     display: inline-block;
   }
+a {
+  color: black;
+}
+a:link {
+  text-decoration: none;
+}
